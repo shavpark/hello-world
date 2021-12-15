@@ -1,0 +1,51 @@
+﻿TicketOfficeID,Code,StationName,State
+1,WIN,"Winona, Minnesota",MN
+2,WIP,"Winter Park/Fraser, Colorado",CO
+3,WIT,"Wittenberg, Wisconsin",WI
+4,WLN,"Wilson, North Carolina",NC
+5,WLO,"Winslow, Arizona",AZ
+6,WLY,"Westerly, Rhode Island",RI
+7,WMA,"Williams, Arizona",AZ
+8,WMJ,"Williams Junction, Arizona",AZ
+9,WND,"Windsor, Connecticut",CT
+10,WNK,"Walloon Lake, Michigan",MI
+11,WNL,"Windsor Locks, Connecticut",CT
+12,WNM,"Windsor, Vermont",VT
+13,WNN,"Winnemucca, Nevada",NV
+14,WNR,"Walnut Ridge, Arkansas",AR
+15,WNS,"Winston-Salem, North Carolina",NC
+16,WNT,"Warrenton, Oregon",OR
+17,WOB,"Woburn, Massachusetts",MA
+18,WOR,"Worcester, Massachusetts",MA
+19,WPB,"West Palm Beach, Florida",FL
+20,WPK,"Winter Park, Florida",FL
+21,WPN,"Waupun, Wisconsin",WI
+22,WPT,"Wolf Point, Montana",MT
+23,WRJ,"White River Jct., Vermont",VT
+24,WRM,"Western Railway Museum, Rio Vista Junction, California",CA
+25,WSB,"Westbrook, Connecticut",CT
+26,WSF,"Westfield, Wisconsin",WI
+27,WSJ,"Wausau (Transit Center), Wisconsin",WI
+28,WSL,"Whistler, British Columbia",BC
+29,WSP,"Westport, New York",NY
+30,WSS,"White Sulphur Springs, West Virginia",WV
+31,WST,"Wiscasset, Maine",ME
+32,WSU,"Wausau-Rothschild (Lamer Bus), Wisconsin",WI
+33,WTH,"Winter Haven, Florida",FL
+34,WTI,"Waterloo, Indiana",IN
+35,WTN,"Williston, North Dakota",ND
+36,WTS,"Willits, California",CA
+37,WWA,"Walla Walla, Washington",WA
+38,WWD,"Wildwood, Florida",FL
+39,YAZ,"Yazoo City, Mississippi",MS
+40,YEM,"Yemassee, South Carolina",SC
+41,YNY,"Yonkers, New York",NY
+42,YOA,"Yosemite - Ahwahnee Hotel, California",CA
+43,YOC,"Yosemite - Curry Village, California",CA
+44,YOF,"Yosemite - Crane Flat, California",CA
+45,YOS,"Yosemite - Lodge, California",CA
+46,YOT,"Yosemite - Tuolumne Meadow, California",CA
+47,YOV,"Yosemite - Visitor Center, California",CA
+48,YOW,"Yosemite - White Wolf, California",CA
+49,YUM,"Yuma, Arizona",AZ
+50,ZMW,Six Flags Discovery Kingdom Admission Ticket,CA
