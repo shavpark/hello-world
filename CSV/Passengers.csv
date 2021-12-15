@@ -1,0 +1,51 @@
+﻿PassengerID,ScheduleID,TicketOfficeID,Name,Age,Fare
+841,1,1,"Alhomaki, Mr. Ilmari Rudolf",20,7.93
+842,2,2,"Mudd, Mr. Thomas Charles",16,10.5
+843,3,3,"Serepeca, Miss. Augusta",30,31
+844,4,4,"Lemberopolous, Mr. Peter L",34,6.44
+845,5,5,"Culumovic, Mr. Jeso",17,8.66
+846,6,6,"Abbing, Mr. Anthony",42,7.55
+847,7,7,"Sage, Mr. Douglas Bullen",48,69.55
+848,8,8,"Markoff, Mr. Marin",35,7.9
+849,9,9,"Harper, Rev. John",28,33
+850,10,10,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",25,89.1
+851,11,11,"Andersson, Master. Sigvard Harald Elias",4,31.28
+852,12,12,"Svensson, Mr. Johan",74,7.78
+853,13,13,"Boulos, Miss. Nourelain",9,15.25
+854,14,14,"Lines, Miss. Mary Conover",16,39.4
+855,15,15,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",44,26
+856,16,16,"Aks, Mrs. Sam (Leah Rosen)",18,9.35
+857,17,17,"Wick, Mrs. George Dennick (Mary Hitchcock)",45,164.87
+858,18,18,"Daly, Mr. Peter Denis",51,26.55
+859,19,19,"Baclini, Mrs. Solomon (Latifa Qurban)",24,19.26
+860,20,20,"Razi, Mr. Raihed",29,7.23
+861,21,21,"Hansen, Mr. Claus Peter",41,14.11
+862,22,22,"Giles, Mr. Frederick Edward",21,11.5
+863,23,23,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",48,25.93
+864,24,24,"Sage, Miss. Dorothy Edith ""Dolly""",24,69.55
+865,25,25,"Gill, Mr. John William",24,13
+866,26,26,"Bystrom, Mrs. (Karolina)",42,13
+867,27,27,"Duran y More, Miss. Asuncion",27,13.86
+868,28,28,"Roebling, Mr. Washington Augustus II",31,50.5
+869,29,29,"van Melkebeke, Mr. Philemon",35,9.5
+870,30,30,"Johnson, Master. Harold Theodor",4,11.13
+871,31,31,"Balkic, Mr. Cerin",26,7.9
+872,32,32,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",47,52.55
+873,33,33,"Carlsson, Mr. Frans Olof",33,5
+874,34,34,"Vander Cruyssen, Mr. Victor",47,9
+875,35,35,"Abelson, Mrs. Samuel (Hannah Wizosky)",28,24
+876,36,36,"Najib, Miss. Adele Kiamie ""Jane""",15,7.23
+877,37,37,"Gustafsson, Mr. Alfred Ossian",20,9.85
+878,38,38,"Petroff, Mr. Nedelio",19,7.9
+879,39,39,"Laleff, Mr. Kristo",48,7.9
+880,40,40,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",56,83.16
+881,41,41,"Shelley, Mrs. William (Imanita Parrish Hall)",25,26
+882,42,42,"Markun, Mr. Johann",33,7.9
+883,43,43,"Dahlberg, Miss. Gerda Ulrika",22,10.52
+884,44,44,"Banfield, Mr. Frederick James",28,10.5
+885,45,45,"Sutehall, Mr. Henry Jr",25,7.05
+886,46,46,"Rice, Mrs. William (Margaret Norton)",39,29.13
+887,47,47,"Montvila, Rev. Juozas",27,13
+888,48,48,"Graham, Miss. Margaret Edith",19,30
+889,49,49,"Johnston, Miss. Catherine Helen ""Carrie""",23,23.45
+890,50,50,"Behr, Mr. Karl Howell",26,30
